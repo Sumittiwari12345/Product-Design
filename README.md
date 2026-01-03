@@ -99,8 +99,4 @@ based updates in `src/state/incidentEngine.ts`.
 ```
 npm install
 npm run dev
-```
-
-## AI tools used
-- OpenAI Codex CLI was used to scaffold and implement this solution.
-"# Product-Design" 
+``` 
